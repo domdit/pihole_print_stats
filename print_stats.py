@@ -19,7 +19,6 @@ class DisplayStats:
 		tz (timezone): Update this to your timezone
 		sleep_time (int): time in seconds between display changes.
 			Update this value to your preference.
-	
 	"""
 	
 	def __init__(self):
